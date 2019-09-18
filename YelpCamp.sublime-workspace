@@ -1,0 +1,928 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cam",
+				"campground.image\tabc"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"fonts-",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"wr",
+				"wrong\tabc"
+			],
+			[
+				"ero",
+				"error\t(app.js)"
+			],
+			[
+				"isc",
+				"iscampgroundOwner\tabc"
+			],
+			[
+				"is",
+				"iscampgroundOwner\t(index.js)"
+			],
+			[
+				"use",
+				"user\tabc"
+			],
+			[
+				"sus",
+				"success\t(app.js)"
+			],
+			[
+				"re",
+				"req\tabc"
+			],
+			[
+				"erro",
+				"error\t(app.js)"
+			],
+			[
+				"containe",
+				"container \tBootstrap 3 Class"
+			],
+			[
+				"equ",
+				"equals\tabc"
+			],
+			[
+				"isa",
+				"isAdmin\tabc"
+			],
+			[
+				"mid",
+				"middlewareObj\t(index.js)"
+			],
+			[
+				"mi",
+				"middlewareObj\tabc"
+			],
+			[
+				"delete",
+				"delete-form\tabc"
+			],
+			[
+				"fin",
+				"findOneAndUpdate\t(campgrounds.js)"
+			],
+			[
+				"equa",
+				"equals\t(campgrounds.js)"
+			],
+			[
+				"camp",
+				"campground\tabc"
+			],
+			[
+				"method",
+				"method=\"POST\t(edit.ejs)"
+			],
+			[
+				"campground",
+				"campground._id\tabc"
+			],
+			[
+				"ac",
+				"action\t(edit.ejs)"
+			],
+			[
+				"class",
+				"class=\"btn\tabc"
+			],
+			[
+				"butto",
+				"button\t(edit.ejs)"
+			],
+			[
+				"col",
+				"col-md-9\tabc"
+			],
+			[
+				"cont",
+				"container\tabc"
+			],
+			[
+				"form",
+				"form-horizontal \tBootstrap 3 Class"
+			],
+			[
+				"form-",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"C",
+				"Campground\tabc"
+			],
+			[
+				"_",
+				"_method\t(app.js)"
+			],
+			[
+				"rout",
+				"router\tabc"
+			],
+			[
+				"va",
+				"value\tabc"
+			],
+			[
+				"im",
+				"image\tabc"
+			],
+			[
+				"ca",
+				"campgrounds/<%=campground._id%>/comments\t(show.ejs)"
+			],
+			[
+				"rou",
+				"router\tabc"
+			],
+			[
+				"met",
+				"methodOverride\tabc"
+			],
+			[
+				"fun",
+				"function\tabc"
+			],
+			[
+				"user",
+				"username\tabc"
+			],
+			[
+				"S",
+				"String\tabc"
+			],
+			[
+				"us",
+				"username\t(index.js)"
+			],
+			[
+				"comm",
+				"comments\tabc"
+			],
+			[
+				"can",
+				"campgrounds\t(campgrounds.js)"
+			],
+			[
+				"col-s",
+				"col-sm-10 \tBootstrap 3 Class"
+			],
+			[
+				"pass",
+				"passport\tabc"
+			],
+			[
+				"new",
+				"newUser\tabc"
+			],
+			[
+				"la",
+				"label\t<label>"
+			],
+			[
+				"te",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"btn",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"input",
+				"input\tTag"
+			],
+			[
+				"in",
+				"inputt\tinput - text"
+			],
+			[
+				"loca",
+				"localStrategy\tabc"
+			],
+			[
+				"req",
+				"require\tabc"
+			],
+			[
+				"pas",
+				"passport-local-mongoose\tabc"
+			],
+			[
+				"pl",
+				"plugin\tplugin (selector)"
+			],
+			[
+				"plug",
+				"plugin\tplugin (method extras)"
+			],
+			[
+				"Us",
+				"UserSchema\tabc"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"stylesheet\tabc"
+			],
+			[
+				"pull",
+				"pull-right\tabc"
+			],
+			[
+				"pul",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"tumb",
+				"thumbnail \tBootstrap 3 Class"
+			],
+			[
+				"floa",
+				"float-right \tBootstrap 4.3 Class"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"conte",
+				"content\t(new.ejs)"
+			],
+			[
+				"com",
+				"comment\tabc"
+			],
+			[
+				"co",
+				"comment\tabc"
+			],
+			[
+				"cre",
+				"create\tabc"
+			],
+			[
+				"Comm",
+				"Comment\tabc"
+			],
+			[
+				"c",
+				"campgrounds\tabc"
+			],
+			[
+				"find",
+				"findById\tabc"
+			],
+			[
+				"f",
+				"form\t<form>"
+			],
+			[
+				"btn-",
+				"btn-default\tabc"
+			],
+			[
+				"commen",
+				"comments\tabc"
+			],
+			[
+				"cma",
+				"campgrounds\t(app.js)"
+			],
+			[
+				"comme",
+				"comment\t(app.js)"
+			],
+			[
+				"seed",
+				"seedDB\t(seeds.js)"
+			],
+			[
+				"modu",
+				"module"
+			],
+			[
+				"row",
+				"row \tBootstrap 3 Class"
+			],
+			[
+				"bt",
+				"btn-toolbar \tBootstrap 3 Class"
+			],
+			[
+				"des",
+				"description\tabc"
+			],
+			[
+				"desc",
+				"description\t(package.json)"
+			],
+			[
+				"all",
+				"allCampgrounds\tabc"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"campg",
+				"campground\t(campgrounds.ejs)"
+			],
+			[
+				"campgro",
+				"canmpgroundSchema\tabc"
+			],
+			[
+				"Camp",
+				"Campground\t(campgrounds.ejs)"
+			],
+			[
+				"mong",
+				"mongoose\t(package.json)"
+			],
+			[
+				"fir",
+				"firebaseConfig\tabc"
+			],
+			[
+				"navbar-li",
+				"navbar-link \tBootstrap 3 Class"
+			],
+			[
+				"na",
+				"nav \tBootstrap 3 Class"
+			],
+			[
+				"bt-blo",
+				"btn-block \tBootstrap 3 Class"
+			],
+			[
+				"navbar-nav",
+				"navbar-nav \tBootstrap 3 Class"
+			],
+			[
+				"navbar-co",
+				"navbar-collapse \tBootstrap 3 Class"
+			],
+			[
+				"navbar-br",
+				"navbar-brand \tBootstrap 3 Class"
+			],
+			[
+				"container-f",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"navbar",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"capti",
+				"caption \tBootstrap 3 Class"
+			],
+			[
+				"col-md-",
+				"col-md-3 \tBootstrap 4.3 Class"
+			],
+			[
+				"Cam",
+				"Campground\t(new.ejs)"
+			],
+			[
+				"redi",
+				"res.redirect([status,] path)"
+			],
+			[
+				"sum",
+				"submit\t.submit()"
+			],
+			[
+				"inputt",
+				"inputt\tinput - text"
+			],
+			[
+				"body",
+				"bodyParser\tabc"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"img",
+				"img\timg"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"se",
+				"search\tabc"
+			],
+			[
+				"res",
+				"results\t(app.js)"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"bo",
+				"body\tabc"
+			],
+			[
+				"err",
+				"error\tabc"
+			],
+			[
+				"result",
+				"resultsDate\tabc"
+			],
+			[
+				"resut",
+				"results\tabc"
+			],
+			[
+				"statu",
+				"res.status(code)"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"requ",
+				"requier\tabc"
+			],
+			[
+				"expr",
+				"express"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/partials/header.ejs",
+			"settings":
+			{
+				"buffer_size": 2362,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2295,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"npm ",
+				"npm: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 418.0,
+		"history":
+		[
+			"npm init",
+			"npn init",
+			"npm init",
+			"pkgctlinspkg [npm](https://sublime.wbond.net/packages/npm)",
+			"pkgctlinspkg npm",
+			"pkgctlinspkg [npm]",
+			"install",
+			"install paper ",
+			"npm",
+			"npm install paper",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Udemy projects/Project/yelpCamp"
+	],
+	"file_history":
+	[
+		"/D/Udemy projects/Project/yelpCamp/firestore.rules",
+		"/D/Udemy projects/Project/yelpCamp/firebase.json",
+		"/D/Udemy projects/Project/yelpCamp/database.rules.json",
+		"/D/Udemy projects/Project/yelpCamp/middleware/index.js",
+		"/D/Udemy projects/Project/yelpCamp/routes/campgrounds.js",
+		"/D/Udemy projects/Project/yelpCamp/views/campgrounds/show.ejs",
+		"/D/Udemy projects/Project/yelpCamp/app.js",
+		"/D/Udemy projects/Project/yelpCamp/models/campground.js",
+		"/D/Udemy projects/Project/yelpCamp/models/comment.js",
+		"/D/Udemy projects/Project/yelpCamp/routes/index.js",
+		"/D/Udemy projects/Project/yelpCamp/views/campgrounds/new.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/campgrounds/edit.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/home.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/partials/header.ejs",
+		"/D/Udemy projects/Project/yelpCamp/public/stylesheets/landing.css",
+		"/D/Udemy projects/Project/yelpCamp/views/comments/new.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/comments/edit.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/campgrounds/index.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/login.ejs",
+		"/D/Udemy projects/Project/yelpCamp/public/stylesheets/main.css",
+		"/D/Udemy projects/Project/yelpCamp/routes/comments.js",
+		"/D/Udemy projects/Project/yelpCamp/views/register.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/users/register.ejs",
+		"/D/Udemy projects/Project/yelpCamp/models/user.js",
+		"/D/Udemy projects/Project/yelpCamp/views/partials/footer.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/show.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/new.ejs",
+		"/D/Udemy projects/Project/yelpCamp/views/index.ejs",
+		"/D/Udemy projects/Project/yelpCamp/models/seeds.js",
+		"/D/Udemy projects/Project/yelpCamp/package.json",
+		"/D/Udemy projects/Project/yelpCamp/views/campgorunds.ejs",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/app.js",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/views/results.ejs",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/views/search.ejs",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/Views/results.ejs",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/package.json",
+		"/D/Udemy projects/bro.html",
+		"/C/Users/Nesy1/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/D/My Downloads/patatapCloneRefactor/CodeAlong 4/circles.css",
+		"/D/My Downloads/patatapCloneRefactor/CodeAlong 4/circles.html",
+		"/D/Udemy projects/Jquery/Patatap game/index.html",
+		"/D/Udemy projects/Jquery/Patatap game/assets/css/styles.css",
+		"/D/Udemy projects/Jquery/Patatap game/assets/js/myScripts.js",
+		"/D/Udemy projects/Jquery/Advanced Todo List/index.html",
+		"/D/Udemy projects/Jquery/Advanced Todo List/assets/js/todos.js",
+		"/D/Udemy projects/Jquery/Advanced Todo List/assets/css/todos.css",
+		"/D/Udemy projects/Jquery/Advanced Todo List/todoList.html",
+		"/D/Udemy projects/Jquery/Advanced Todo List/todolist.js",
+		"/D/Udemy projects/Jquery/Advanced Todo List/todolist.css",
+		"/D/Udemy projects/game.css",
+		"/D/Udemy projects/game.html",
+		"/C/Users/Nesy1/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Nesy1/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/Udemy projects/Bootstrap/Imgae gallery/img-gallery.html",
+		"/D/Udemy projects/Bootstrap/Imgae gallery/img-style.css",
+		"/D/Udemy projects/Bootstrap/landing page/landing.css",
+		"/D/Udemy projects/Bootstrap/landing page/landing page.html",
+		"/D/Udemy projects/CSS/blog/blog.html",
+		"/D/Udemy projects/CSS/blog/blog.css",
+		"/D/Udemy projects/CSS/photo-blog/07_ImageBlog1/imageLinks.html",
+		"/D/Udemy projects/CSS/photo-blog/07_ImageBlog1/photos.css",
+		"/D/Udemy projects/CSS/tic tac toe/tic tac toe.css",
+		"/D/Udemy projects/CSS/tic tac toe/tic tac toe.html",
+		"/D/Udemy projects/CSS/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/D/Udemy projects/CSS/09_Selector_Exercise_Starter/selectors.css",
+		"/D/Udemy projects/HTML - Intro/forms.html",
+		"/D/Udemy projects/HTML - Intro/tables.html",
+		"/D/Udemy projects/HTML - Intro/tables",
+		"/D/Udemy projects/HTML - Intro/imgs and links.html",
+		"/D/Udemy projects/HTML - Intro/imgs and links",
+		"/D/Udemy projects/HTML - Intro/FirstPage.html",
+		"/D/Program Files/Udemy projects/HTML - intro/First page.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t<label>Campground Price:</label>\n\t\t\t\t\t<input class=\"form-control\" type=\"number\" name=\"price\" placeholder=\"Price\" min=\"0.01\" step=\"0.01\">\n\t\t\t\t</div>",
+			"iscampgroundOwner",
+			";\n",
+			"user",
+			"%>",
+			"app",
+			"/index",
+			"indexchema",
+			"campgrounds",
+			"canmpgroundSchema",
+			"campgroundSchema",
+			"></",
+			"20",
+			"\">\n",
+			"gMale",
+			">\n",
+			"\t\t\t\t<td>image</td>\n",
+			"td",
+			">\n",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"isCampgroundOwner",
+			"router",
+			"/campgrounds",
+			"campgroundSchema",
+			"index",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/partials/header.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/EJS/EJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								987,
+								987
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 72.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 36.0
+	},
+	"pinned_build_system": "",
+	"project": "YelpCamp.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

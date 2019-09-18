@@ -1,0 +1,168 @@
+body {
+	font-family: 'Oswald', 'sans-serif';
+	background-color: rgba(240, 249, 250, 0.829);
+
+}
+
+.navbar-nav li{
+	font-family: 'Oswald', 'sans-serif';
+}
+
+.navbar-nav li a{
+	font-family: 'Oswald', 'sans-serif';
+	padding: 5px;
+	color: grey;
+}
+
+.jumbotron {
+	background-color: rgba(255, 255, 255, 0);
+	justify-content: center;
+	text-align: center;
+}
+
+.jumbotron h1{
+	font-size: 6em;
+}
+
+.jumbotron p{
+	font-size: 2em;
+}
+
+.card img {
+	margin:0;
+	width: 100%;
+	border-radius: 10px 10px 0  0 ;
+}
+
+
+.card {
+	border-radius: 10px;
+	border: none;
+	display: flex;
+	text-justify: right;
+	margin-top: 15px ;
+	
+} 
+
+.card h4{
+	font-weight: 600;
+	width: 220px;
+	text-transform: uppercase;
+	text-align: justify;
+}
+
+.card strong{
+	text-transform: capitalize;
+}
+.card h5{
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+.card .infoButton{
+	margin: 50px;
+	background-color: rgb(24, 189, 126);
+	border: none;
+	font-weight: 500;
+	font-size: 1.2em;
+	color:white;
+}
+
+
+.card .infoButton:hover{
+	background-color: rgb(12, 105, 70);
+	color: rgb(200, 218, 212);
+}
+
+.delete-form{
+	display: inline;
+}
+
+.card #caption-left{
+	display:block;
+	position: inherit;
+}
+.card .caption{
+	margin: 15px;
+}
+
+#show-card{
+	width: 120%;
+}
+
+.well{
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.card button{
+	width: 120px;
+	border-radius: 10px;
+
+}
+.card a{
+	width: 120px;
+	margin-right: 5px;
+	border-radius: 10px;
+}
+
+.comments-area p{
+	margin-top: 20px;
+}
+
+.comments-area strong{
+	font-size: 1.3em;
+	text-transform: capitalize;
+}
+
+.comments-area span{
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+
+footer {
+	background-color: rgba(36, 158, 158, 0.678);
+	width: 100%;
+	margin-top: 20px;
+	padding: 12px;
+	text-align: center;
+	justify-content: center;
+	color: white;
+	line-height: 3em;
+	word-spacing: 0.25em;
+	
+}
+
+footer a:hover{
+	text-decoration: none;
+}
+
+.form-group input{
+	border: none;
+	border-radius: 2.5px;
+	background-color:none;
+	margin-left: 4px;
+	
+
+}
+
+.loginForm .form-group input:focus{
+	background-color: none;
+}
+
+form .btn-success{
+	font-weight:300;
+	text-transform: uppercase;
+
+}
+
+.comments-buttons button{
+
+	border-radius: 10px;
+	margin-left: 5px;
+}
+.comments-buttons a{
+
+	border-radius: 10px;
+
+}

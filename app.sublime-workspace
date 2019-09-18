@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"search\tabc"
+			],
+			[
+				"res",
+				"results\t(app.js)"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"bo",
+				"body\tabc"
+			],
+			[
+				"err",
+				"error\tabc"
+			],
+			[
+				"result",
+				"resultsDate\tabc"
+			],
+			[
+				"resut",
+				"results\tabc"
+			],
+			[
+				"re",
+				"results\tabc"
+			],
+			[
+				"statu",
+				"res.status(code)"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"req",
+				"request\tabc"
+			],
+			[
+				"requ",
+				"requier\tabc"
+			],
+			[
+				"expr",
+				"express"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"st",
+				"stopPropagation"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"sc",
+				"src\tAttr"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"text-shadow\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"footer",
+				"footer-nav"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"m",
+				"margin-bottom\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"fr",
+				"firstP"
+			],
+			[
+				"fi",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom\tproperty"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"fot",
+				"font-style\tproperty"
+			],
+			[
+				"border",
+				"border-left\tproperty"
+			],
+			[
+				"a",
+				"auto\tpadding"
+			],
+			[
+				"p",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"t",
+				"text-transform\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"e",
+				"Enter"
+			],
+			[
+				"mi",
+				"minlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"g",
+				"gOther"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"F",
+				"firstName"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"npm ",
+				"npm: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 418.0,
+		"history":
+		[
+			"npm init",
+			"npn init",
+			"npm init",
+			"pkgctlinspkg [npm](https://sublime.wbond.net/packages/npm)",
+			"pkgctlinspkg npm",
+			"pkgctlinspkg [npm]",
+			"install",
+			"install paper ",
+			"npm",
+			"npm install paper",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/app.js",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/views/results.ejs",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/views/search.ejs",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/Views/results.ejs",
+		"/D/Udemy projects/BackEnd/JSON/movieDBApp/package.json",
+		"/D/Udemy projects/bro.html",
+		"/C/Users/Nesy1/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/D/My Downloads/patatapCloneRefactor/CodeAlong 4/circles.css",
+		"/D/My Downloads/patatapCloneRefactor/CodeAlong 4/circles.html",
+		"/D/Udemy projects/Jquery/Patatap game/index.html",
+		"/D/Udemy projects/Jquery/Patatap game/assets/css/styles.css",
+		"/D/Udemy projects/Jquery/Patatap game/assets/js/myScripts.js",
+		"/D/Udemy projects/Jquery/Advanced Todo List/index.html",
+		"/D/Udemy projects/Jquery/Advanced Todo List/assets/js/todos.js",
+		"/D/Udemy projects/Jquery/Advanced Todo List/assets/css/todos.css",
+		"/D/Udemy projects/Jquery/Advanced Todo List/todoList.html",
+		"/D/Udemy projects/Jquery/Advanced Todo List/todolist.js",
+		"/D/Udemy projects/Jquery/Advanced Todo List/todolist.css",
+		"/D/Udemy projects/game.css",
+		"/D/Udemy projects/game.html",
+		"/C/Users/Nesy1/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Nesy1/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/Udemy projects/Bootstrap/Imgae gallery/img-gallery.html",
+		"/D/Udemy projects/Bootstrap/Imgae gallery/img-style.css",
+		"/D/Udemy projects/Bootstrap/landing page/landing.css",
+		"/D/Udemy projects/Bootstrap/landing page/landing page.html",
+		"/D/Udemy projects/CSS/blog/blog.html",
+		"/D/Udemy projects/CSS/blog/blog.css",
+		"/D/Udemy projects/CSS/photo-blog/07_ImageBlog1/imageLinks.html",
+		"/D/Udemy projects/CSS/photo-blog/07_ImageBlog1/photos.css",
+		"/D/Udemy projects/CSS/tic tac toe/tic tac toe.css",
+		"/D/Udemy projects/CSS/tic tac toe/tic tac toe.html",
+		"/D/Udemy projects/CSS/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/D/Udemy projects/CSS/09_Selector_Exercise_Starter/selectors.css",
+		"/D/Udemy projects/HTML - Intro/forms.html",
+		"/D/Udemy projects/HTML - Intro/tables.html",
+		"/D/Udemy projects/HTML - Intro/tables",
+		"/D/Udemy projects/HTML - Intro/imgs and links.html",
+		"/D/Udemy projects/HTML - Intro/imgs and links",
+		"/D/Udemy projects/HTML - Intro/FirstPage.html",
+		"/D/Program Files/Udemy projects/HTML - intro/First page.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"></",
+			"20",
+			"\">\n",
+			"gMale",
+			">\n",
+			"\t\t\t\t<td>image</td>\n",
+			"td",
+			">\n",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 72.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

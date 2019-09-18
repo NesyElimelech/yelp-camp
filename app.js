@@ -23,7 +23,10 @@ var app = express(),
 //	seedDB		= require("./models/seeds");
 
 //connecting the app to the DB 
-mongoose.connect("mongodb+srv://Nesy:EEwn1nPphzPflLvY@cluster0-nfdeh.mongodb.net/test?retryWrites=true&w=majority",  { useNewUrlParser: true });
+mongoose.connect("mongodb+srv://Nesy:EEwn1nPphzPflLvY@cluster0-nfdeh.mongodb.net/test?retryWrites=true&w=majority",  
+{ useNewUrlParser: true , useCreateIndex: true}).then(()=>{console.log('Connected to db')}).catch(err => {
+	console.log('Error in Connecting to db: ', err.message);
+});
 
 
 //seedDB(); //->to init DB and add data to it

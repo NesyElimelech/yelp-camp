@@ -23,7 +23,9 @@ var app = express(),
 //	seedDB		= require("./models/seeds");
 
 //connecting the app to the DB 
-mongoose.connect("mongodb://localhost:27017/yelp_camp",  { useNewUrlParser: true });
+mongoose.connect("mongodb+srv://Nesy:EEwn1nPphzPflLvY@cluster0-nfdeh.mongodb.net/test?retryWrites=true&w=majority",  { useNewUrlParser: true });
+
+
 //seedDB(); //->to init DB and add data to it
 
 
